@@ -1,0 +1,49 @@
+header{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    flex-direction: column;
+}
+
+.btn1{
+    background-color: blue;
+    padding: 10px;
+    border: none;
+    border-radius: 7px;
+    
+}
+
+.btn2{
+    background-color: red;
+    padding: 10px;
+    border-radius: 7px;
+    border: none;
+}
+
+button{
+    margin: 0 80px;
+}
+
+a{
+    color: aliceblue;
+    text-decoration: none;
+    font-size: 15px;
+    font-weight: bold;
+}
+
+main{
+  margin-top: 15%;
+  font-size: 30px;
+  font-weight: bold;
+    
+}
+
+.btn1:hover{
+    background-color: #000080;
+    opacity: 0.8;
+}
+
+.btn2:hover{
+   background-color: darkred;
+   opacity: 0.8;
+}
